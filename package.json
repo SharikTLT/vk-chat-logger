@@ -1,0 +1,22 @@
+{
+  "name": "vk-chat-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharikTLT/vk-chat-logger.git"
+  },
+  "author": "SharikTLT <shariktlt@gmail.com> (https://vk.com/shariktlt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SharikTLT/vk-chat-logger/issues"
+  },
+  "homepage": "https://github.com/SharikTLT/vk-chat-logger#readme",
+  "dependencies": {
+    "vk-api": "^0.1.0"
+  }
+}
